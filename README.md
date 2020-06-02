@@ -1,1 +1,2 @@
-# CREATE-COLOURED-RAINDROP-PATTERN-USING-CLASS
+# p5.play-boilerplate
+Boiler plate for p5.play
